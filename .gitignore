@@ -58,3 +58,5 @@ local_settings.py
 
 #virtualenv
 myvenv/
+
+db/*.sqlite3
