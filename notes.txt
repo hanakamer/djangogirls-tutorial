@@ -1,0 +1,3 @@
+cd ~/Development/djangogirls/
+. myvenv/bin/activate
+python manage.py runserver
